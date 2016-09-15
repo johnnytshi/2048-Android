@@ -18,11 +18,11 @@ android {
         }
     }
     productFlavors {
-        notPro {
-            versionName "notPro"
+        staging {
+            versionName "staging"
         }
-        pro {
-            versionName "pro"
+        production {
+            versionName "production"
         }
     }
     lintOptions {
