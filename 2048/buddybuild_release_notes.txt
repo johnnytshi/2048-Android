@@ -1,7 +1,0 @@
-Hey all,
-
-These are the changes:
-
-1. Good OO design
-2. Unit test that
-3. Throw some UI Tests just because
