@@ -1,1 +1,1 @@
-include ':2048', ':mylibrary'
+include ':2048', ':mylibrary', ':myjavalib'
